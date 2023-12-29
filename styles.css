@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+p, a {
+    font-size: large;
+}
+
+u, i, a, b {
+    margin:0;
+}
+
+html {
+    text-align: center;
+  }
